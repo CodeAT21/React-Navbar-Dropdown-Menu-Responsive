@@ -11,4 +11,4 @@ npm install react-icons --save
 <a href="https://youtu.be/EdkBNqHxw5Y" rel="nofollow"> Live Demo </a>
 
 ### Website
-<a href="https://codeat21.com/2021/03/25/react-navbar-dropdown-menu-responsive/" rel="nofollow"> Website </a>
+<a href="https://codeat21.com/react-navbar-dropdown-menu-responsive-codeat21-com/" rel="nofollow"> Website </a>
